@@ -1,0 +1,10 @@
+.table{
+
+    background-color: rgb(216, 123, 177);
+    color: black;
+    border: 1px solid black;
+}
+th,td{
+border: 1px solid rgb(219, 212, 216);
+
+}
